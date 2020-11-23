@@ -87,7 +87,7 @@ function App() {
       <hr />
 
       <section>
-        <footer className={classes.footer}>Designed and Developed by <a href="https://upshotfirm.com" target="_blank" className={classes.footer}>Wasif Ahmed</a>.</footer>
+        <footer className={classes.footer}>Designed and Developed by <a href="https://upshotfirm.com" target="_blank" rel="noreferrer" className={classes.footer}>Wasif Ahmed</a>.</footer>
       </section>
     </div>
   );
