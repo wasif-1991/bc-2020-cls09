@@ -25,7 +25,7 @@ const useStyles = makeStyles((theme) => ({
   },
 
   heading: {
-    paddingTop: 25
+    paddingTop: 5
   },
 
   input: {
