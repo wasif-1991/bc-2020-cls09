@@ -38,7 +38,7 @@ const useStyles = makeStyles((theme) => ({
   },
 
   barchart: {
-    width: 600,
+    width: '60%',
     height: 'auto',
     marginLeft: 'auto',
     marginRight: 'auto',
